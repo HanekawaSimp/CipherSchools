@@ -1,0 +1,10 @@
+Day2
+We discussed Binaries and decimal.
+
+Had discussions on questions below
+what is programming language?
+why learn c++ instead of other programming language
+what is an ide
+what are high level and low level languages
+what happens after we write code 
+what is a compiler
