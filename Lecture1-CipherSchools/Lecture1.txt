@@ -1,0 +1,2 @@
+Day 1
+We were told to download VScode and mingw-64 compiler which will be required for programming in C++.
