@@ -1,0 +1,6 @@
+we discussed these questions
+
+1.What are variables and constants in c++
+2.How will the computer identify the kind of input we give
+3.How will the computer store the input we give
+
